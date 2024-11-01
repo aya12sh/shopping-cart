@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.sh-card {
+  @apply rounded-md overflow-hidden;
+}
+
+.sh-card-img-container {
+  @apply w-full h-36 flex items-center justify-center bg-muted;
+}
