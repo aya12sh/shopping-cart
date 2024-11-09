@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .sh-card {
-  @apply rounded-md overflow-hidden;
+  @apply rounded-md overflow-hidden border;
 }
 
 .sh-card-img-container {
